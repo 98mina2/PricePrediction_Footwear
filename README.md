@@ -1,1 +1,8 @@
-# harvard_109_shoes
+# Harvard AC209 Final Project
+## The Effects of Footwear Product Displays on Prices
+
+### Introduction
+
+Nike and Adidas are two leading sportswear and athleisure companies in the world. While keeping excellence in products over years, both companies have expanded their markets through diverse advertising tactics such as adding new color schemes to Nike’s Dunk Low and adding exclusive lines like Jordans, Air Max, NMD, Yeezy, and more. Both companies would take current market conditions into account when setting its product price points and ranges, but companies also would utilize the value-based pricing strategy which incorporates the consumers’ willingness to pay (Entreprene, 2021). While many factors will play a role in altering the consumers’ willingness to pay, we can observe companies’ final analysis on those through the final price decision of each product along with the descriptions to persuade consumers on their websites. Therefore, using the premise that each company has decided the price and display of each product to target consumer’s needs and willingness to purchase, it would be not surprising to investigate the relationship between the price and displays of footwear products on the companies’ websites such as wording, colors, and styles. Therefore, our analysis will focus on finding features that are predictive of product prices. The results can potentially be used to predict the price of a footwear product given its description, number of styles available, type of shoes as well as other indicators.
+
+PDF Visible in: 98mina2/AC209_Finalproject/ms2_submission/AC209a_Project.pdf
